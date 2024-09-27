@@ -30,8 +30,8 @@ Provide data-driven recommendations for enhancing student mental health support.
    Highlighted areas where support strategies could be improved based on the analysis.
 
 # Project Life Cycle
-   ###Initiation: Defined project objectives, designed surveys, and planned data collection methods.
-   ###Data Collection: Conducted surveys and gathered relevant data on financial and mental health aspects.
+   Initiation: Defined project objectives, designed surveys, and planned data collection methods.
+   Data Collection: Conducted surveys and gathered relevant data on financial and mental health aspects.
    ###Data Processing: Cleaned and prepared data using Pandas and NumPy.
    Analysis: Used statistical and machine learning techniques to analyze data.
    Visualization: Developed visualizations with Seaborn to present findings.
